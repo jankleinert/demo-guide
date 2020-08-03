@@ -47,7 +47,7 @@ Details on the workshop content as well as full instructions on how to deploy
 and run the workshop once the cluster is available are 
 [here](https://github.com/openshift-labs/starter-guides/blob/ocp-3.11/README.md).
 
-An example of the lab guide is found 
+An example of the 3.11 lab guide is found 
 [here](http://starter-guides-labs.b9ad.pro-us-east-1.openshiftapps.com/workshop/
 workshop/lab/common-environment).
 
@@ -61,6 +61,8 @@ for the entire workshop.
 Details on the workshop content as well as full instructions on how to deploy 
 and run the workshop once the cluster is available are [here](https://github.com
 /openshift-labs/starter-guides/blob/ocp-4.2/README.md).
+
+An example of the 4.2 lab guide is found [here](http://lab-getting-started-ocp4-starter-guide.apps.osd4-demo.u6k6.p1.openshiftapps.com/workshop/common-workshop-summary).
 
 ## Source
 The source code for the workshop guide is [here](https://github.com/openshift-la
